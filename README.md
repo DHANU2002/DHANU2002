@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DHANU2002
-- 👀 I’m interested in
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m DHANUNJAY NAIDU
+- 👀 I’m interested in CRICKET
+- 🌱 I’m currently learning CODING
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
